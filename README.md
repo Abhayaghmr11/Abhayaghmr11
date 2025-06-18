@@ -1,20 +1,7 @@
 # 👋 Hi, I'm Abhaya Raj Ghimire
 
 🎓 MSc Software Systems Engineering student at [University College London (UCL)](https://www.ucl.ac.uk/), with a B.Tech in Computer Science & Engineering  
-💡 Passionate about Full-Stack Development, Software Engineering, and building intelligent, accessible, and scalable web platforms.
-
----
-
-## 💼 Experience
-
-- **Freelance Web Developer** @ Bright Smile Dental Clinic  
-  Designed and built a fast, accessible, SEO-optimized website using **Next.js**, **SSR**, and **Figma**.
-
-- **Junior Computer Engineer** @ Advantage International Pvt Ltd  
-  Worked on the National Identity Project in Nepal — managed 100+ servers, maintained the DATACARD MX6100 system, and delivered infrastructure reports.
-
-- **Intern** @ Advantage International Pvt Ltd  
-  Contributed to Nepal's National Identity System with remote hardware/software support and QA testing.
+💡 Passionate Full-Stack Developer, Software Engineer, and building intelligent, accessible, and scalable web platforms.
 
 ---
 
@@ -29,7 +16,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Some Projects
 
 - 🎓 [AI-Powered Learning Platform](https://github.com/Abhayaghmr11/Saas_LMS.git)  
   An AI SaaS LMS with voice-interactive learning powered by **Next.js**, **TailwindCSS**, and **Vapi**.
