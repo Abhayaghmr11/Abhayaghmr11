@@ -7,7 +7,7 @@
 
 ## 🛠️ Skills
 
-**Languages:** JavaScript, HTML5, CSS, TypeScript, Python, Java, SQL  
+**Languages:** JavaScript, TypeScript, HTML5, CSS, Python, Java, SQL  
 **Frameworks & Libraries:** React, Next.js, TailwindCSS  
 **Back-End & Databases:** Node.js, PostgreSQL, Supabase, API Integration, SSR, Sanity.io  
 **Web Performance:** SEO, Lazy Loading, Code Splitting, Scalability  
