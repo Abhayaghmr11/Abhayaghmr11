@@ -1,41 +1,16 @@
-# 👋 Hi, I'm Abhaya Raj Ghimire
+# 💫 About Me:
+MSc Software Systems Engineering student at University College London (UCL), with a B.Tech in Computer Science & Engineering<br>Passionate Full-Stack Developer, Software Engineer, and building intelligent, accessible, and scalable web platforms.<br><br>
 
-🎓 MSc Software Systems Engineering student at [University College London (UCL)](https://www.ucl.ac.uk/), with a B.Tech in Computer Science & Engineering  
-💡 Passionate Full-Stack Developer, Software Engineer, and building intelligent, accessible, and scalable web platforms.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhaya-raj-ghimire/) 
 
-## 🛠️ Skills
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhayaghmr11&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=Abhayaghmr11&theme=blueberry&hide_border=true)<br/> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhayaghmr11&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-**Languages:** JavaScript, TypeScript, HTML5, CSS, Python, Java, SQL  
-**Frameworks & Libraries:** React, Next.js, TailwindCSS  
-**Back-End & Databases:** Node.js, PostgreSQL, Supabase, API Integration, SSR, Sanity.io  
-**Web Performance:** SEO, Lazy Loading, Code Splitting, Scalability  
-**Development & Testing:** Git, Automated Testing, QA  
-**Tools & Platforms:** Linux, Visual Studio Code, GitHub, Figma  
 
----
-
-## 🚀 Some Projects
-
-- 🎓 [AI-Powered Learning Platform](https://github.com/Abhayaghmr11/Saas_LMS.git)  
-  An AI SaaS LMS with voice-interactive learning powered by **Next.js**, **TailwindCSS**, and **Vapi**.
-
-- 📈 [ECG Classification Using ML](https://github.com/Abhayaghmr11/ECG-Classification.git)  
-  Machine Learning model for detecting irregular ECG patterns using Python & scikit-learn.
-
-- 🔍 [TDD in Practice](https://github.com/Abhayaghmr11/ECG-Classification.git)  
-  Analyzed test patterns in open-source repos with **PyDriller** and **Python** to evaluate real-world TDD.
-
----
-
-## 📫 Contact
-
-📍 London, UK  
-📧 [abhaya2057@gmail.com](mailto:abhaya2057@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abhaya-raj-ghimire-0579b2228/)  
-💻 [GitHub](https://github.com/Abhayaghmr11)
-
----
-
-_“Code is poetry when it solves real problems.”_
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
