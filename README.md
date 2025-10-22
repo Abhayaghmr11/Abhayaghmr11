@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I'm Abhaya Ghimire, a passionate Software Engineer and MSc student in Software Systems Engineering at University College London. With a strong foundation in full-stack web development and AI integration, I specialize in building scalable, user-centric applications using React, Next.js, Tailwind CSS, and Python.<br><br>
-Currently, I'm working with IBM on an AI-powered framework for modernizing legacy enterprise systems, focusing on intelligent code transformation using vector databases and dynamic embeddings. Alongside, I freelance as a Web Engineer, delivering responsive, internationalized websites tailored to diverse user bases.<br><br>
+Hi, I'm Abhaya Ghimire, a passionate Software Engineer and MSc student in Software Systems Engineering at University College London. With a strong foundation in full-stack web development and AI integration, I specialise in building scalable, user-centric applications using React, Next.js, Node, Tailwind CSS, and Python.<br><br>
+Currently, I'm working with IBM on an AI-powered framework for modernising legacy enterprise systems, focusing on intelligent code transformation using vector databases and dynamic embeddings. Alongside, I freelance as a Web Engineer, delivering responsive, internationalised websites tailored to diverse user bases.<br><br>
 
 
 ## 🌐 Socials:
